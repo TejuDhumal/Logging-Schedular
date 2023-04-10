@@ -1,0 +1,57 @@
+2023-04-05 08:50:30,532 [INFO] com.example.log4j.logging.LoggingApplication {restartedMain} Starting LoggingApplication using Java 19.0.2 with PID 20384 (E:\Iauro\logging\logging\target\classes started by lenovo in E:\Iauro\logging\logging)
+2023-04-05 08:50:30,568 [INFO] com.example.log4j.logging.LoggingApplication {restartedMain} No active profile set, falling back to 1 default profile: "default"
+2023-04-05 08:50:30,717 [INFO] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor {restartedMain} Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-05 08:50:30,717 [INFO] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor {restartedMain} For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-05 08:50:32,802 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer {restartedMain} Tomcat initialized with port(s): 8080 (http)
+2023-04-05 08:50:32,804 [INFO] org.apache.catalina.core.AprLifecycleListener {restartedMain} An older version [1.2.36] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [2.0.1]
+2023-04-05 08:50:32,804 [INFO] org.apache.catalina.core.AprLifecycleListener {restartedMain} Loaded Apache Tomcat Native library [1.2.36] using APR version [1.7.2].
+2023-04-05 08:50:32,810 [INFO] org.apache.catalina.core.AprLifecycleListener {restartedMain} OpenSSL successfully initialized [OpenSSL 1.1.1t  7 Feb 2023]
+2023-04-05 08:50:32,824 [INFO] org.apache.catalina.core.StandardService {restartedMain} Starting service [Tomcat]
+2023-04-05 08:50:32,826 [INFO] org.apache.catalina.core.StandardEngine {restartedMain} Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-04-05 08:50:32,901 [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] {restartedMain} Initializing Spring embedded WebApplicationContext
+2023-04-05 08:50:32,902 [INFO] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext {restartedMain} Root WebApplicationContext: initialization completed in 2183 ms
+2023-04-05 08:50:33,535 [INFO] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer {restartedMain} LiveReload server is running on port 35729
+2023-04-05 08:50:33,608 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer {restartedMain} Tomcat started on port(s): 8080 (http) with context path ''
+2023-04-05 08:50:33,629 [INFO] com.example.log4j.logging.LoggingApplication {restartedMain} Started LoggingApplication in 4.148 seconds (process running for 7.078)
+2023-04-05 08:50:33,642 [INFO] com.example.log4j.logging.LoggingApplication {task-1} schedule time 05-04-2023 08:04:63
+2023-04-05 08:50:33,642 [INFO] com.example.log4j.logging.LoggingApplication {restartedMain} this is info
+2023-04-05 08:50:33,643 [ERROR] com.example.log4j.logging.LoggingApplication {restartedMain} this is error
+2023-04-05 08:50:33,644 [WARN] com.example.log4j.logging.LoggingApplication {restartedMain} this is warn
+2023-04-05 08:50:33,645 [ERROR] com.example.log4j.logging.LoggingApplication {restartedMain} this is fatal
+2023-04-05 08:50:38,639 [INFO] com.example.log4j.logging.LoggingApplication {task-2} schedule time 05-04-2023 08:04:63
+2023-04-05 08:50:43,639 [INFO] com.example.log4j.logging.LoggingApplication {task-3} schedule time 05-04-2023 08:04:63
+2023-04-05 08:50:48,642 [INFO] com.example.log4j.logging.LoggingApplication {task-4} schedule time 05-04-2023 08:04:64
+2023-04-05 08:50:53,656 [INFO] com.example.log4j.logging.LoggingApplication {task-5} schedule time 05-04-2023 08:04:65
+2023-04-05 08:50:58,667 [INFO] com.example.log4j.logging.LoggingApplication {task-6} schedule time 05-04-2023 08:04:66
+2023-04-05 08:51:33,792 [INFO] com.example.log4j.logging.LoggingApplication {restartedMain} Starting LoggingApplication using Java 19.0.2 with PID 15852 (E:\Iauro\logging\logging\target\classes started by lenovo in E:\Iauro\logging\logging)
+2023-04-05 08:51:33,795 [INFO] com.example.log4j.logging.LoggingApplication {restartedMain} No active profile set, falling back to 1 default profile: "default"
+2023-04-05 08:51:33,917 [INFO] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor {restartedMain} Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-05 08:51:33,924 [INFO] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor {restartedMain} For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-05 08:51:35,902 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer {restartedMain} Tomcat initialized with port(s): 8080 (http)
+2023-04-05 08:51:35,905 [INFO] org.apache.catalina.core.AprLifecycleListener {restartedMain} An older version [1.2.36] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [2.0.1]
+2023-04-05 08:51:35,906 [INFO] org.apache.catalina.core.AprLifecycleListener {restartedMain} Loaded Apache Tomcat Native library [1.2.36] using APR version [1.7.2].
+2023-04-05 08:51:35,912 [INFO] org.apache.catalina.core.AprLifecycleListener {restartedMain} OpenSSL successfully initialized [OpenSSL 1.1.1t  7 Feb 2023]
+2023-04-05 08:51:35,930 [INFO] org.apache.catalina.core.StandardService {restartedMain} Starting service [Tomcat]
+2023-04-05 08:51:35,931 [INFO] org.apache.catalina.core.StandardEngine {restartedMain} Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-04-05 08:51:36,037 [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] {restartedMain} Initializing Spring embedded WebApplicationContext
+2023-04-05 08:51:36,038 [INFO] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext {restartedMain} Root WebApplicationContext: initialization completed in 2112 ms
+2023-04-05 08:51:36,931 [INFO] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer {restartedMain} LiveReload server is running on port 35729
+2023-04-05 08:51:36,998 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer {restartedMain} Tomcat started on port(s): 8080 (http) with context path ''
+2023-04-05 08:51:37,021 [INFO] com.example.log4j.logging.LoggingApplication {restartedMain} Started LoggingApplication in 4.253 seconds (process running for 5.841)
+2023-04-05 08:51:37,029 [INFO] com.example.log4j.logging.LoggingApplication {restartedMain} this is info
+2023-04-05 08:51:37,029 [INFO] com.example.log4j.logging.LoggingApplication {task-1} schedule time 05-04-2023 08:04:02
+2023-04-05 08:51:37,029 [ERROR] com.example.log4j.logging.LoggingApplication {restartedMain} this is error
+2023-04-05 08:51:37,030 [WARN] com.example.log4j.logging.LoggingApplication {restartedMain} this is warn
+2023-04-05 08:51:37,030 [ERROR] com.example.log4j.logging.LoggingApplication {restartedMain} this is fatal
+2023-04-05 08:51:42,031 [INFO] com.example.log4j.logging.LoggingApplication {task-2} schedule time 05-04-2023 08:04:03
+2023-04-05 08:51:47,032 [INFO] com.example.log4j.logging.LoggingApplication {task-3} schedule time 05-04-2023 08:04:03
+2023-04-05 08:51:52,033 [INFO] com.example.log4j.logging.LoggingApplication {task-4} schedule time 05-04-2023 08:04:03
+2023-04-05 08:51:57,034 [INFO] com.example.log4j.logging.LoggingApplication {task-5} schedule time 05-04-2023 08:04:03
+2023-04-05 08:52:02,044 [INFO] com.example.log4j.logging.LoggingApplication {task-6} schedule time 05-04-2023 08:04:04
+2023-04-05 08:52:07,059 [INFO] com.example.log4j.logging.LoggingApplication {task-7} schedule time 05-04-2023 08:04:05
+2023-04-05 08:52:12,065 [INFO] com.example.log4j.logging.LoggingApplication {task-8} schedule time 05-04-2023 08:04:06
+2023-04-05 08:52:17,079 [INFO] com.example.log4j.logging.LoggingApplication {task-1} schedule time 05-04-2023 08:04:07
+2023-04-05 08:52:22,086 [INFO] com.example.log4j.logging.LoggingApplication {task-2} schedule time 05-04-2023 08:04:08
+2023-04-05 08:52:27,097 [INFO] com.example.log4j.logging.LoggingApplication {task-3} schedule time 05-04-2023 08:04:09
+2023-04-05 08:52:32,100 [INFO] com.example.log4j.logging.LoggingApplication {task-4} schedule time 05-04-2023 08:04:10
+2023-04-05 08:52:37,109 [INFO] com.example.log4j.logging.LoggingApplication {task-5} schedule time 05-04-2023 08:04:10
